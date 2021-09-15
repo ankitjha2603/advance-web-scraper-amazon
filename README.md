@@ -9,8 +9,8 @@ The extracted data will be
 * __Rating__
 * __Screenshot__
     * Save screenshot of product
-* __Comment__
-    * Extract comment
+* __Comments/customer reviews__
+    * Data
         * Name
         * Rating
         * Review title
