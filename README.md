@@ -17,7 +17,7 @@ The extracted data will be
         * Date
         * Comment
     * User can specify the specific time (in seconds) to extract comments/reviews, this will save time ___otherwise___ scrapers will extract all comments
-* __Save data as .xlsx__
+### __The extracted data will be stored as .xlsx file__
 
 # Technologies
 *  #### python 3.9.1
